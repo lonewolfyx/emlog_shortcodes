@@ -1,2 +1,10 @@
-# emlog_shortcodes
-WordPress 短代码至 Emlog
+# Emlog 短代码
+使用过 WordPress 又做过它的主题开发者人员来说，短代码给主题增加了更多特色功能，它让你无所不能无所不奇。那么作为 WordPress 强大美化的短代码，在轻量版的 Emlog 中，它来了，它来了，它来了，让你在开发主题中更加强化流畅，功能无所不奇。有了此功能让你的内容更加丰富多彩。
+
+# 使用方法
+--------------
+上传后，激活本插件即可。
+
+# 开发文档
+--------------
+具体开发文档建议您仔细查阅 WordPress 大佬水煮鱼写得一篇文章，跳转链接：https://blog.wpjam.com/article/wordpress-shortcode/
